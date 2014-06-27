@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>464163EC-D2E1-48ED-A1C3-07646E09126C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NetVision Lite</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8D3FE9E3-9059-4818-8F82-3CDC1754B80D</key>
+		<string>http://172.17.136.164/svn/dev/m-app/chsp/chsp_ios/brunch/v2.0.4</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>prototype/Camera/NetVisionLite_SDK_V16/NetVisionLite_source_code/NetVision Lite_V1_6/NetVision Lite.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8D3FE9E3-9059-4818-8F82-3CDC1754B80D</key>
+		<string>../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>8D3FE9E3-9059-4818-8F82-3CDC1754B80D</key>
+		<string>http://172.17.136.164/svn/dev</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://172.17.136.164/svn/dev/m-app/chsp/chsp_ios/brunch/v2.0.4/prototype/Camera/NetVisionLite_SDK_V16/NetVisionLite_source_code/NetVision%20Lite_V1_6/NetVision%20Lite.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8D3FE9E3-9059-4818-8F82-3CDC1754B80D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D3FE9E3-9059-4818-8F82-3CDC1754B80D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>v2.0.4</string>
+		</dict>
+	</array>
+</dict>
+</plist>
